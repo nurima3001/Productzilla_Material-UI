@@ -1,0 +1,14 @@
+import civic from './civic-type-r.jpg';
+import innova from './innova-venture.jpg';
+import apv from './apv.jpg';
+import m4 from './m4-competition.jpg';
+import sclass from './s-class-3000.jpg';
+import aventador from './aventador.jpg';
+import almaz from './almaz.jpg';
+import sigra from './sigra.jpg';
+import cullinan from './cullinan.jpg';
+import macan from './macan.jpg';
+import veyron from './veyron.jpg';
+import aventador2 from './aventador-merah.jpg';
+import Zilla from './Zilla.png';
+export default { civic, innova, apv, m4, sclass, aventador, almaz, sigra, cullinan, macan, veyron, aventador2, Zilla };
